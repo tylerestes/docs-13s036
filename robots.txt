@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-hp5a5n.greekqtopup.icu/sitemap.xml
